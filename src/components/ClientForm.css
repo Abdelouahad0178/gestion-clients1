@@ -1,0 +1,39 @@
+/* src/components/ClientForm.css */
+.client-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
+  
+  .client-form h2 {
+    margin-bottom: 15px;
+  }
+  
+  .client-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .client-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .client-form input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .client-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .client-form button:hover {
+    opacity: 0.8;
+  }
+  

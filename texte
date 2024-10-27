@@ -1,0 +1,15 @@
+gestion-clients/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── ClientForm.js
+│   │   ├── ClientList.js
+│   │   ├── Header.js
+│   │   └── ... 
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── ... 
+├── package.json
+└── README.md

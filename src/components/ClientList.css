@@ -1,0 +1,54 @@
+/* src/components/ClientList.css */
+.client-list {
+    margin-top: 20px;
+  }
+  
+  .client-list .search-bar {
+    margin-bottom: 15px;
+    text-align: right;
+  }
+  
+  .client-list .search-bar input {
+    padding: 8px 12px;
+    width: 50%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .client-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .client-list th, .client-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .client-list th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .client-list button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .client-list button:hover {
+    opacity: 0.8;
+  }
+  
+  .client-list button:first-of-type {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .client-list button:last-of-type {
+    background-color: #f44336;
+    color: white;
+  }
+  
